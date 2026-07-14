@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-lc757v.date-me.pro/sitemap.xml
